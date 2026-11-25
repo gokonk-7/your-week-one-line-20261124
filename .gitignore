@@ -1,0 +1,8 @@
+# Kit tarball and competition data (never committed: they break thinking_reproduces)
+kit/
+competition.json
+requirements.json
+# Local run output
+/output/
+__pycache__/
+*.pyc
